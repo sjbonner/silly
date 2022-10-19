@@ -1,3 +1,3 @@
 silly <- function(name){
-  message("Isn't",name,"silly.")
+  message("Isn't ",name," silly.")
 }
